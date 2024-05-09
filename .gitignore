@@ -1,0 +1,67 @@
+open-cylce-api/HELP.md
+open-cylce-api/.gradle
+open-cylce-api/build/
+open-cylce-api/!gradle/wrapper/gradle-wrapper.jar
+open-cylce-api/!**/src/main/**/build/
+open-cylce-api/!**/src/test/**/build/
+
+### STS ###
+open-cylce-api/.apt_generated
+open-cylce-api/.classpath
+open-cylce-api/.factorypath
+open-cylce-api/.project
+open-cylce-api/.settings
+open-cylce-api/.springBeans
+open-cylce-api/.sts4-cache
+open-cylce-api/bin/
+open-cylce-api/!**/src/main/**/bin/
+open-cylce-api/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+open-cylce-api/.idea
+open-cylce-api/*.iws
+open-cylce-api/*.iml
+open-cylce-api/*.ipr
+open-cylce-api/out/
+open-cylce-api/!**/src/main/**/out/
+open-cylce-api/!**/src/test/**/out/
+
+### NetBeans ###
+open-cylce-api/nbproject/private/
+open-cylce-api/nbbuild/
+open-cylce-api/dist/
+open-cylce-api/nbdist/
+open-cylce-api/.nb-gradle/
+
+### VS Code ###
+open-cylce-api/.vscode/
+.vscode/
+
+### Kotlin ###
+open-cylce-api/.kotlin
+.kotlin
+
+# Logs
+open-cylce-frontend/logs
+open-cylce-frontend/*.log
+open-cylce-frontend/npm-debug.log*
+open-cylce-frontend/yarn-debug.log*
+open-cylce-frontend/yarn-error.log*
+open-cylce-frontend/pnpm-debug.log*
+open-cylce-frontend/lerna-debug.log*
+
+open-cylce-frontend/node_modules
+open-cylce-frontend/dist
+open-cylce-frontend/dist-ssr
+open-cylce-frontend/*.local
+
+# Editor directories and files
+open-cylce-frontend/.vscode/*
+open-cylce-frontend/!.vscode/extensions.json
+open-cylce-frontend/.idea
+open-cylce-frontend/.DS_Store
+open-cylce-frontend/*.suo
+open-cylce-frontend/*.ntvs*
+open-cylce-frontend/*.njsproj
+open-cylce-frontend/*.sln
+open-cylce-frontend/*.sw?
